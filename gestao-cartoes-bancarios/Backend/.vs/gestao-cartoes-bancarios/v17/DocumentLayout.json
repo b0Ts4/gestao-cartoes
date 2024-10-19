@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Wagner\\Desktop\\gestao-cartoes-bancarios\\1DetalhesCartao\\",
+  "WorkspaceRootPath": "C:\\Users\\Wagner\\Documents\\GitHub\\gestao-cartoes\\gestao-cartoes-bancarios\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04EC06A2-FB91-4CA7-8D0C-5EF62DDB86E4}|gestao-cartoes-bancarios.csproj|c:\\users\\wagner\\desktop\\gestao-cartoes-bancarios\\1detalhescartao\\controllers\\detalhescartaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04EC06A2-FB91-4CA7-8D0C-5EF62DDB86E4}|gestao-cartoes-bancarios.csproj|c:\\users\\wagner\\documents\\github\\gestao-cartoes\\gestao-cartoes-bancarios\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EC06A2-FB91-4CA7-8D0C-5EF62DDB86E4}|gestao-cartoes-bancarios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EC06A2-FB91-4CA7-8D0C-5EF62DDB86E4}|gestao-cartoes-bancarios.csproj|c:\\users\\wagner\\documents\\github\\gestao-cartoes\\gestao-cartoes-bancarios\\backend\\controllers\\detalhescartaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04EC06A2-FB91-4CA7-8D0C-5EF62DDB86E4}|gestao-cartoes-bancarios.csproj|solutionrelative:controllers\\detalhescartaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04EC06A2-FB91-4CA7-8D0C-5EF62DDB86E4}|gestao-cartoes-bancarios.csproj|c:\\users\\wagner\\desktop\\gestao-cartoes-bancarios\\1detalhescartao\\models\\detalhescartao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04EC06A2-FB91-4CA7-8D0C-5EF62DDB86E4}|gestao-cartoes-bancarios.csproj|c:\\users\\wagner\\documents\\github\\gestao-cartoes\\gestao-cartoes-bancarios\\backend\\models\\detalhescartao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04EC06A2-FB91-4CA7-8D0C-5EF62DDB86E4}|gestao-cartoes-bancarios.csproj|solutionrelative:models\\detalhescartao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04EC06A2-FB91-4CA7-8D0C-5EF62DDB86E4}|gestao-cartoes-bancarios.csproj|c:\\users\\wagner\\desktop\\gestao-cartoes-bancarios\\1detalhescartao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04EC06A2-FB91-4CA7-8D0C-5EF62DDB86E4}|gestao-cartoes-bancarios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,11 +34,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DetalhesCartao.cs",
-              "DocumentMoniker": "C:\\Users\\Wagner\\Desktop\\gestao-cartoes-bancarios\\1DetalhesCartao\\Models\\DetalhesCartao.cs",
+              "DocumentMoniker": "C:\\Users\\Wagner\\Documents\\GitHub\\gestao-cartoes\\gestao-cartoes-bancarios\\Backend\\Models\\DetalhesCartao.cs",
               "RelativeDocumentMoniker": "Models\\DetalhesCartao.cs",
-              "ToolTip": "C:\\Users\\Wagner\\Desktop\\gestao-cartoes-bancarios\\1DetalhesCartao\\Models\\DetalhesCartao.cs",
+              "ToolTip": "C:\\Users\\Wagner\\Documents\\GitHub\\gestao-cartoes\\gestao-cartoes-bancarios\\Backend\\Models\\DetalhesCartao.cs",
               "RelativeToolTip": "Models\\DetalhesCartao.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -46,25 +46,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Wagner\\Desktop\\gestao-cartoes-bancarios\\1DetalhesCartao\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wagner\\Documents\\GitHub\\gestao-cartoes\\gestao-cartoes-bancarios\\Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Wagner\\Desktop\\gestao-cartoes-bancarios\\1DetalhesCartao\\Program.cs",
+              "ToolTip": "C:\\Users\\Wagner\\Documents\\GitHub\\gestao-cartoes\\gestao-cartoes-bancarios\\Backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T18:29:18.262Z"
+              "WhenOpened": "2024-10-03T18:29:18.262Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DetalhesCartaoController.cs",
-              "DocumentMoniker": "C:\\Users\\Wagner\\Desktop\\gestao-cartoes-bancarios\\1DetalhesCartao\\Controllers\\DetalhesCartaoController.cs",
+              "DocumentMoniker": "C:\\Users\\Wagner\\Documents\\GitHub\\gestao-cartoes\\gestao-cartoes-bancarios\\Backend\\Controllers\\DetalhesCartaoController.cs",
               "RelativeDocumentMoniker": "Controllers\\DetalhesCartaoController.cs",
-              "ToolTip": "C:\\Users\\Wagner\\Desktop\\gestao-cartoes-bancarios\\1DetalhesCartao\\Controllers\\DetalhesCartaoController.cs",
+              "ToolTip": "C:\\Users\\Wagner\\Documents\\GitHub\\gestao-cartoes\\gestao-cartoes-bancarios\\Backend\\Controllers\\DetalhesCartaoController.cs",
               "RelativeToolTip": "Controllers\\DetalhesCartaoController.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAqwGsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T17:50:07.974Z",
               "EditorCaption": ""

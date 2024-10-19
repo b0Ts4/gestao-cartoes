@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iDUWmvq4Z7DAVXtW/c0TgK6yYpJKMS2ii+CvoFSGHePH8cxlag7J1EredD3xgwMz/wX+cBLKtukXH5OmLx+SnA==",
+  "dgSpecHash": "JhtVZQ40vHu/0z2X8oM/yMovSW4SWhal5ZA7SFkSdkbfs1fwpi2Mm57jj89PCaUEfY+dAGw89mxeKejzj1MbOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wagner\\Desktop\\gestao-cartoes-bancarios\\1DetalhesCartao\\gestao-cartoes-bancarios.csproj",
+  "projectFilePath": "C:\\Users\\Wagner\\Documents\\GitHub\\gestao-cartoes\\gestao-cartoes-bancarios\\Backend\\gestao-cartoes-bancarios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wagner\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Wagner\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

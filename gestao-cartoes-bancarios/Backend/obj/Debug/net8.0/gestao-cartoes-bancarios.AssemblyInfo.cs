@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gestao-cartoes-bancarios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef6888121f8bfe4efa7628ac263fbdf6fed80d4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("gestao-cartoes-bancarios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gestao-cartoes-bancarios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8139,11 +8139,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wagner\\Desktop\\gestao-cartoes-bancarios\\1DetalhesCartao\\gestao-cartoes-bancarios.csproj",
+      "projectUniqueName": "C:\\Users\\Wagner\\Documents\\GitHub\\gestao-cartoes\\gestao-cartoes-bancarios\\Backend\\gestao-cartoes-bancarios.csproj",
       "projectName": "gestao-cartoes-bancarios",
-      "projectPath": "C:\\Users\\Wagner\\Desktop\\gestao-cartoes-bancarios\\1DetalhesCartao\\gestao-cartoes-bancarios.csproj",
+      "projectPath": "C:\\Users\\Wagner\\Documents\\GitHub\\gestao-cartoes\\gestao-cartoes-bancarios\\Backend\\gestao-cartoes-bancarios.csproj",
       "packagesPath": "C:\\Users\\Wagner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wagner\\Desktop\\gestao-cartoes-bancarios\\1DetalhesCartao\\obj\\",
+      "outputPath": "C:\\Users\\Wagner\\Documents\\GitHub\\gestao-cartoes\\gestao-cartoes-bancarios\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wagner\\AppData\\Roaming\\NuGet\\NuGet.Config",
